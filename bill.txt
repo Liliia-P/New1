@@ -1,0 +1,3 @@
+fish-3
+meat-4
+vegies-2
